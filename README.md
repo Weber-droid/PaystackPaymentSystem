@@ -1,2 +1,2 @@
 # PaystackPaymentSystem
-Payment System with Springboot and Paystack
+- Payment System with Springboot and Paystack
